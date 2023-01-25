@@ -6,5 +6,6 @@ Here's some of the projects I made/maintain:
 * [chytboat.com](https://chytboat.com) 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MUNYYBY&layout=compact&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
+<br/>
 [![Munyyb's github stats](https://github-readme-stats.vercel.app/api?username=MUNYYBY&show_icons=true&bg_color=00000000)](https://github.com/MUNYYBY)
 

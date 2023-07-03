@@ -3,7 +3,9 @@
 
 Here's some of the projects I made/maintain:
 * [munyyb.com](https://munyyb.com) 
-* [chytboat.com](https://chytboat.com) 
+* [chytboat.com](https://chytboat.com)
+* [projectorate.org](http://projectorate.org/)
+* [returnsimple.com](https://returnsimple.com/) 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MUNYYBY&layout=compact&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
 <br/>

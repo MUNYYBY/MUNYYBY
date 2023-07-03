@@ -11,5 +11,5 @@ Here's some of the projects I made/maintain:
 <br/>
 [![Munyyb's github stats](https://github-readme-stats.vercel.app/api?username=MUNYYBY&show_icons=true&bg_color=00000000)](https://github.com/MUNYYBY)
 <br/>
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MUNYYBY)](https://github.com/anuraghazra/github-readme-stats)
 

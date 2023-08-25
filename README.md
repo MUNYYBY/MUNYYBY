@@ -1,5 +1,5 @@
 ### <h1 align="center">Hi 👋, I'm Munyyb</h1>
-<h3 align="center">A Full Stack Developer</h3>
+<h3 align="center">A Full Stack Developer and a Creator ✍️🚀</h3>
 
 Here's some of the projects I made/maintain:
 * [munyyb.com](https://munyyb.com) 
